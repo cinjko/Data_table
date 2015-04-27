@@ -1,0 +1,41 @@
+.wrapper{
+    margin: 50px auto;
+}
+.table{
+    border: solid gray;
+    max-width: 600px;
+    max-height: 100px;
+    margin: auto;
+}
+
+td, th, tr  {
+    width: 70px;
+    border: solid gray;
+}
+
+.btn{
+    margin-right: 30px;
+    float: right;
+}
+.button{
+    width: 600px;
+    margin: auto;
+}
+
+caption {
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+caption h3 {
+    margin: 0;
+}
+
+#default {
+    /*width: 50px;*/
+    margin-left: 20px;
+    float: left;
+    font-size: 15px;
+    /*cursor: pointer;*/
+}
+
